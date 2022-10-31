@@ -76,7 +76,7 @@ content:
           
         quote: >
           Short overview of the project (optional)
-        description: | this will detect fruads based on credit card information
+        description: this will detect fruads based on credit card information
           Description about the work on/with the project
   - title: Experience
     layout: list
